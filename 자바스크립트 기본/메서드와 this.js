@@ -31,7 +31,7 @@ let calculator = {
 calculator.read();
 alert( calculator.sum() );
 alert( calculator.mul() );
-  
+
 
 // 과제 3
 // 체이닝
